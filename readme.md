@@ -1,7 +1,7 @@
 ### It's me, Shenzy 👋
 
-<img src="https://komarev.com/ghpvc/?username=shenzyJS=Ziyaretçi%20Sayısı&color=37fa3f" alt="shenzyJS" />
-<img src="https://komarev.com/ghpvc/?username=shenzyJS=Profile%20Viewers&color=37fa3f" alt="shenzyJS" />
+<img src="https://komarev.com/ghpvc/?username=shenzyxrd=Ziyaretçi%20Sayısı&color=37fa3f" alt="shenzyxrd" />
+<img src="https://komarev.com/ghpvc/?username=shenzyxrd=Profile%20Viewers&color=37fa3f" alt="shenzyxrd" />
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/871802164186611783?theme=light&bg=1c1c1c&animated=false&hideDiscrim=false&borderRadius=30px)](https://discord.com/users/871802164186611783)
 
